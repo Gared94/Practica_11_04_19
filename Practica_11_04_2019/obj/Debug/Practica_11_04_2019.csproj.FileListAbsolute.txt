@@ -1,0 +1,10 @@
+C:\Users\epineda\Documents\GitHub\Practica_11_04_2019\Practica_11_04_2019\bin\Debug\Practica_11_04_2019.exe.config
+C:\Users\epineda\Documents\GitHub\Practica_11_04_2019\Practica_11_04_2019\bin\Debug\Practica_11_04_2019.exe
+C:\Users\epineda\Documents\GitHub\Practica_11_04_2019\Practica_11_04_2019\bin\Debug\Practica_11_04_2019.pdb
+C:\Users\epineda\Documents\GitHub\Practica_11_04_2019\Practica_11_04_2019\obj\Debug\Practica_11_04_2019.csprojResolveAssemblyReference.cache
+C:\Users\epineda\Documents\GitHub\Practica_11_04_2019\Practica_11_04_2019\obj\Debug\Practica_11_04_2019.MDIParent1.resources
+C:\Users\epineda\Documents\GitHub\Practica_11_04_2019\Practica_11_04_2019\obj\Debug\Practica_11_04_2019.Properties.Resources.resources
+C:\Users\epineda\Documents\GitHub\Practica_11_04_2019\Practica_11_04_2019\obj\Debug\Practica_11_04_2019.csproj.GenerateResource.Cache
+C:\Users\epineda\Documents\GitHub\Practica_11_04_2019\Practica_11_04_2019\obj\Debug\Practica_11_04_2019.exe
+C:\Users\epineda\Documents\GitHub\Practica_11_04_2019\Practica_11_04_2019\obj\Debug\Practica_11_04_2019.pdb
+C:\Users\epineda\Documents\GitHub\Practica_11_04_2019\Practica_11_04_2019\obj\Debug\Practica_11_04_2019.GuardarComo.resources
