@@ -63,6 +63,16 @@ namespace Practica_11_04_2019.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap fondo_bloqueo {
+            get {
+                object obj = ResourceManager.GetObject("fondo bloqueo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap fondo_TP {
             get {
                 object obj = ResourceManager.GetObject("fondo TP", resourceCulture);

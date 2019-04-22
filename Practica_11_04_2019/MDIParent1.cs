@@ -110,7 +110,7 @@ namespace Practica_11_04_2019
 
         private void MDIParent1_Load(object sender, EventArgs e)
         {
-
+            this.BackColor = Color.Red;
         }
 
         private void fileMenu_Click(object sender, EventArgs e)
